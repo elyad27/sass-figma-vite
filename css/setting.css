@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+  }
+.wrapper{
+    width: 100%;
+    height: auto;
+}
+.menuToggle input ,.menuToggle span {
+    display: none;
+}
+a{ 
+    text-decoration: none;
+}
